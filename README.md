@@ -6,8 +6,8 @@
 ini adalah hasil program yang telah dibuat dan hasil eksekusi/RUN
 ![ing](ss/latihan.png)
 
-### Mmembuat Tugas latihan Input Biodata Diri
-ini program untuk menginputkan biodata diri secara lengkap
+### Membuat Tugas latihan Input Biodata Diri
+ini program untuk menginputkan biodata diri secara lengkap dan hasil eksekusi/RUN
 ![ing](ss/Tugaslatihan.png)
 
 
